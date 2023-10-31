@@ -5,6 +5,7 @@ import Profile from "../pages/Profile"
 import PostDetail from "../pages/PostDetail"
 import Login from "../pages/Login"
 
+
 function App() {
 
   return (
