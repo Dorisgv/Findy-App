@@ -1,8 +1,19 @@
 import React from 'react'
 
+
+
 const PostDetail = () => {
   return (
-    <div>PostDetail</div>
+    <>
+      <div>PostDetail
+        
+      </div>
+     
+
+    </>
+
+
+
   )
 }
 
