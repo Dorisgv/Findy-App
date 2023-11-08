@@ -4,6 +4,7 @@ import Feed from "../pages/Feed/Feed"
 import Profile from "../pages/Profile"
 import PostDetail from "../pages/PostDetail"
 import Login from "../pages/Login"
+import FormSharePublic from "../components/FormSharePublic"
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route path="profile" element={<Profile />}></Route>
         </Route>
         <Route path="login" element={<Login />}></Route>
+        <Route path="FormSharePublic" element={<FormSharePublic />}></Route>
       </Routes>
     </BrowserRouter>
   )

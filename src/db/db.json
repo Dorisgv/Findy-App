@@ -2,14 +2,36 @@
   "users": [
     {
       "id": 1,
-      "nombre": "",
-      "correo": "",
+      "nombre": "Alison",
+      "correo": "ali11@gmail.com",
+      "contrasena": "alison",
+      "avatar": "",
+      "descripcion": "",
+      "seguidores": [],
+      "seguidos": [],
+      "posts": []
+    },
+    {
+      "id": 1,
+      "nombre": "Doris",
+      "correo": "drix00@gmail.com", 
+      "contrasena": "doris",
+      "avatar": "",
+      "descripcion": "",
+      "seguidores": [],
+      "seguidos": [],
+      "posts": []
+    },
+    {
+      "id": 1,
+      "nombre": "Charles",
+      "correo": "charls22@gmail.com",
       "contrasena": "",
       "avatar": "",
       "descripcion": "",
-      "seguidores": [/*ids de los usuarios que lo siugen*/],
+      "seguidores": [],
       "seguidos": [],
-      "posts": [ /*id de los postst*/ ]
+      "posts": []
     }
   ],
   "posts": [
